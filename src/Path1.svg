@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3145px" height="1901px" viewBox="0 0 3145 1901" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Path 15 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#80C3F3" offset="0%"></stop>
+            <stop stop-color="#4A90E2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.1900837,0 L3144.19008,0 L3144.19008,1901 C2980.95752,1414.33333 2570.29086,1171 1912.19008,1171 C1341.65502,1171 789.690084,1800 15.1900837,1221 C11.4708071,1218.21955 6.40744582,1210.95858 0,1199.2171 L15.1900837,0 Z" id="Path-15-Copy" fill="url(#linearGradient-1)" transform="translate(1572.095042, 950.500000) rotate(-180.000000) translate(-1572.095042, -950.500000) "></path>
+    </g>
+</svg>
